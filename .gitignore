@@ -33,4 +33,11 @@ sysinfo.txt
 
 # Builds
 *.apk
+*.mpk
 *.unitypackage
+
+# JetBrains Rider Plugin
+Assets/Plugins/Editor/JetBrains*
+
+# GitHub for Unity Plugin
+Assets/Plugins/GitHub*
